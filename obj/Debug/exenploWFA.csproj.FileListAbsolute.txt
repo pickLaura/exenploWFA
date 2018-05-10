@@ -1,0 +1,9 @@
+C:\Users\104965\Documents\GitHub\exenploWFA\exenploWFA\bin\Debug\exenploWFA.exe.config
+C:\Users\104965\Documents\GitHub\exenploWFA\exenploWFA\bin\Debug\exenploWFA.exe
+C:\Users\104965\Documents\GitHub\exenploWFA\exenploWFA\bin\Debug\exenploWFA.pdb
+C:\Users\104965\Documents\GitHub\exenploWFA\exenploWFA\obj\Debug\exenploWFA.csprojResolveAssemblyReference.cache
+C:\Users\104965\Documents\GitHub\exenploWFA\exenploWFA\obj\Debug\exenploWFA.Form1.resources
+C:\Users\104965\Documents\GitHub\exenploWFA\exenploWFA\obj\Debug\exenploWFA.Properties.Resources.resources
+C:\Users\104965\Documents\GitHub\exenploWFA\exenploWFA\obj\Debug\exenploWFA.csproj.GenerateResource.Cache
+C:\Users\104965\Documents\GitHub\exenploWFA\exenploWFA\obj\Debug\exenploWFA.exe
+C:\Users\104965\Documents\GitHub\exenploWFA\exenploWFA\obj\Debug\exenploWFA.pdb
